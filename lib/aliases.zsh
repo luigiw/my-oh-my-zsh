@@ -1,4 +1,5 @@
 alias gem='/opt/local/bin/gem2.1'
+alias ruby='/usr/local/bin/ruby'
 
 # Push and pop directories on directory stack
 alias pu='pushd'
