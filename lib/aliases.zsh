@@ -1,5 +1,3 @@
-alias ruby='/usr/local/bin/ruby'
-
 # Push and pop directories on directory stack
 alias pu='pushd'
 alias po='popd'
